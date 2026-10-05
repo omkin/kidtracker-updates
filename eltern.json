@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v2/KidTracker-Eltern.apk",
-    "versionCode":  2,
-    "versionName":  "0.2.0",
-    "notes":  "Der Standortpunkt ist kleiner. Neue Versionen werden direkt in der App geladen."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v3/KidTracker-Eltern.apk",
+    "versionCode":  3,
+    "versionName":  "0.2.2",
+    "notes":  "Meldung, wenn eine gespeicherte Adresse verlassen oder erreicht wird."
 }
