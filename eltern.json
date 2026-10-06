@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v8/KidTracker-Eltern.apk",
-    "versionCode":  8,
-    "versionName":  "0.2.8",
-    "notes":  "Akkusymbol mit Prozent, rot unter 20 Prozent."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v9/KidTracker-Eltern.apk",
+    "versionCode":  9,
+    "versionName":  "0.2.9",
+    "notes":  "Ort auf der Karte antippen und benennen. Nachsehen springt sofort zum Kind."
 }
