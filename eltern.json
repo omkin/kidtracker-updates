@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v9/KidTracker-Eltern.apk",
-    "versionCode":  9,
-    "versionName":  "0.2.9",
-    "notes":  "Ort auf der Karte antippen und benennen. Nachsehen springt sofort zum Kind."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v10/KidTracker-Eltern.apk",
+    "versionCode":  10,
+    "versionName":  "0.2.10",
+    "notes":  "Wege der letzten sieben Tage auf der Karte, Tag für Tag."
 }
