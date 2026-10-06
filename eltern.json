@@ -1,6 +1,1 @@
-{
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v10/KidTracker-Eltern.apk",
-    "versionCode":  10,
-    "versionName":  "0.2.10",
-    "notes":  "Wege der letzten sieben Tage auf der Karte, Tag für Tag."
-}
+{"apk":"https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v11/KidTracker-Eltern.apk","versionCode":11,"versionName":"0.2.11","notes":"App-Zeiten mit Logo, Uhrzeit rechts und aufklappbarem Limit oder Sperren."}
