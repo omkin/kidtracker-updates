@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v4/KidTracker-Eltern.apk",
-    "versionCode":  4,
-    "versionName":  "0.2.4",
-    "notes":  "Letzter Standort mit Uhrzeit, Akku, Meldung wenn nichts mehr ankommt, Wege von heute und Orte auf der Karte."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v5/KidTracker-Eltern.apk",
+    "versionCode":  5,
+    "versionName":  "0.2.5",
+    "notes":  "GPS-Rauschen zu Hause wird nicht mehr als Weg angezeigt."
 }
