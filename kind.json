@@ -1,6 +1,1 @@
-{
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v7/KidTracker-Kind.apk",
-    "versionCode":  7,
-    "versionName":  "0.2.6",
-    "notes":  "Der Akkustand wird an die Eltern-App gesendet."
-}
+{"apk":"https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v8/KidTracker-Kind.apk","versionCode":8,"versionName":"0.2.7","notes":"Die Kinder-App schickt die App-Logos an die Eltern-App."}
