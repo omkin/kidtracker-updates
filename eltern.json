@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v3/KidTracker-Eltern.apk",
-    "versionCode":  3,
-    "versionName":  "0.2.2",
-    "notes":  "Meldung, wenn eine gespeicherte Adresse verlassen oder erreicht wird."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v4/KidTracker-Eltern.apk",
+    "versionCode":  4,
+    "versionName":  "0.2.4",
+    "notes":  "Letzter Standort mit Uhrzeit, Akku, Meldung wenn nichts mehr ankommt, Wege von heute und Orte auf der Karte."
 }
