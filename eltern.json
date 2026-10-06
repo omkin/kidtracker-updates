@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v6/KidTracker-Eltern.apk",
-    "versionCode":  6,
-    "versionName":  "0.2.6",
-    "notes":  "Akku und Online/Offline stehen unter Heute. Meldung, wenn das Handy wieder online ist."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v7/KidTracker-Eltern.apk",
+    "versionCode":  7,
+    "versionName":  "0.2.7",
+    "notes":  "Antippen einer Meldung öffnet die App beim Kind."
 }
