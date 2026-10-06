@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v7/KidTracker-Eltern.apk",
-    "versionCode":  7,
-    "versionName":  "0.2.7",
-    "notes":  "Antippen einer Meldung öffnet die App beim Kind."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v8/KidTracker-Eltern.apk",
+    "versionCode":  8,
+    "versionName":  "0.2.8",
+    "notes":  "Akkusymbol mit Prozent, rot unter 20 Prozent."
 }
