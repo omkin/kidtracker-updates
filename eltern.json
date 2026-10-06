@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v5/KidTracker-Eltern.apk",
-    "versionCode":  5,
-    "versionName":  "0.2.5",
-    "notes":  "GPS-Rauschen zu Hause wird nicht mehr als Weg angezeigt."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v6/KidTracker-Eltern.apk",
+    "versionCode":  6,
+    "versionName":  "0.2.6",
+    "notes":  "Akku und Online/Offline stehen unter Heute. Meldung, wenn das Handy wieder online ist."
 }
