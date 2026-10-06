@@ -1,6 +1,6 @@
 {
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v4/KidTracker-Kind.apk",
-    "versionCode":  4,
-    "versionName":  "0.2.3",
-    "notes":  "Die Standort-Meldung oben ist weg. Das Teilen lässt sich nicht mehr beenden."
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v5/KidTracker-Kind.apk",
+    "versionCode":  5,
+    "versionName":  "0.2.4",
+    "notes":  "Meldet den Akkustand, auch wenn das Handy still liegt."
 }
