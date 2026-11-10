@@ -1,1 +1,7 @@
-{"apk":"https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v21/KidTracker-Eltern.apk","versionCode":21,"versionName":"0.2.21","notes":"Die Weglinie lässt kurzes Hin-und-her weg. Abbiegen und Aufenthalte bleiben."}
+{
+    "sha256":  "08a3bd1bc6ad8fe83fe78d8304548544031332790867370894229ca26f9c698e",
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v22/KidTracker-Eltern.apk",
+    "versionCode":  22,
+    "versionName":  "0.2.22",
+    "notes":  "Fehlerbehebungen: stabilere Meldungen, sichtbare Mitteilung, Schritte nach Neustart, Prüfsumme für Updates."
+}
