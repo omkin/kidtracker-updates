@@ -1,1 +1,7 @@
-{"apk":"https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v11/KidTracker-Kind.apk","versionCode":11,"versionName":"0.2.10","notes":"Genauere Weglinie. Nachrichten der Eltern erscheinen auf dem Bildschirm."}
+{
+    "sha256":  "f5efc9715ae2d7c3b61e1bddd0569dd5943003ce7a0c2ef7883ba92d0e8e925c",
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v12/KidTracker-Kind.apk",
+    "versionCode":  12,
+    "versionName":  "0.2.11",
+    "notes":  "Fehlerbehebungen: stabilere Meldungen, sichtbare Mitteilung, Schritte nach Neustart, Prüfsumme für Updates."
+}
