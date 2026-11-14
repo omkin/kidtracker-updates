@@ -3,5 +3,5 @@
     "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v12/KidTracker-Kind.apk",
     "versionCode":  12,
     "versionName":  "0.2.11",
-    "notes":  "Fehlerbehebungen: stabilere Meldungen, sichtbare Mitteilung, Schritte nach Neustart, Prüfsumme für Updates."
+    "notes":  "Neue KidTracker-Version."
 }
