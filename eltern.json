@@ -1,7 +1,7 @@
 {
-    "sha256":  "08a3bd1bc6ad8fe83fe78d8304548544031332790867370894229ca26f9c698e",
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v22/KidTracker-Eltern.apk",
-    "versionCode":  22,
-    "versionName":  "0.2.22",
-    "notes":  "Fehlerbehebungen: stabilere Meldungen, sichtbare Mitteilung, Schritte nach Neustart, Prüfsumme für Updates."
+    "sha256":  "893be1a5bd82d457eecb88a3cca86bf97d57bc8d25992cbd1ad95753e77116c3",
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v23/KidTracker-Eltern.apk",
+    "versionCode":  23,
+    "versionName":  "0.2.23",
+    "notes":  "Neue KidTracker-Version."
 }
