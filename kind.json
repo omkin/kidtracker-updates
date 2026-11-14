@@ -1,7 +1,7 @@
 {
-    "sha256":  "6accd438a1a0b58ff68ae481ebff2cee2429df010509b9ac3c8baa379633bfd6",
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v13/KidTracker-Kind.apk",
-    "versionCode":  13,
-    "versionName":  "0.2.12",
-    "notes":  "Neue KidTracker-Version."
+    "sha256":  "80be73177e6a613994639dc6934978722420dededb449f54c066e7eff2644f2c",
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v14/KidTracker-Kind.apk",
+    "versionCode":  14,
+    "versionName":  "0.2.13",
+    "notes":  "Neue Geräte-Seite und Neustart nach Updates."
 }
