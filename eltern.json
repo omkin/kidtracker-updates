@@ -1,7 +1,7 @@
 {
-    "sha256":  "2aef67d0b40683f76e787b93b3a5a9679afb751b9c8baaed18a07fe6dc1046c3",
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v27/KidTracker-Eltern.apk",
-    "versionCode":  27,
-    "versionName":  "0.2.27",
-    "notes":  "Kinder-App aktualisiert sich künftig automatisch."
+    "sha256":  "7d61a49cb732b044fda1659eaae84521554fc5fec626bf3760b0af35b6448bba",
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v28/KidTracker-Eltern.apk",
+    "versionCode":  28,
+    "versionName":  "0.2.28",
+    "notes":  "Neue Standort-Seite: Zeitleiste mit Orten und Wegen, größere Karte."
 }
