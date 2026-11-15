@@ -3,5 +3,5 @@
     "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v17/KidTracker-Kind.apk",
     "versionCode":  17,
     "versionName":  "0.2.16",
-    "notes":  "Kinder-App aktualisiert sich künftig automatisch."
+    "notes":  "Neue Standort-Seite: Zeitleiste mit Orten und Wegen, größere Karte."
 }
