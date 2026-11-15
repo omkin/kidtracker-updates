@@ -1,7 +1,7 @@
 {
-    "sha256":  "7d61a49cb732b044fda1659eaae84521554fc5fec626bf3760b0af35b6448bba",
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v28/KidTracker-Eltern.apk",
-    "versionCode":  28,
-    "versionName":  "0.2.28",
-    "notes":  "Neue Standort-Seite: Zeitleiste mit Orten und Wegen, größere Karte."
+    "sha256":  "4ef811e11c11df2dc621d44d7be2a36f66e9428d4550ee65f11492580a3e3247",
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v29/KidTracker-Eltern.apk",
+    "versionCode":  29,
+    "versionName":  "0.2.29",
+    "notes":  "Zeitleiste ohne erfundene Wege, wenn das Handy zu Hause liegt."
 }
