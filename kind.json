@@ -1,7 +1,7 @@
 {
-    "sha256":  "3c0f02ad7e7c36bad684525501c2e8dc9bae88646a03ac2e195b9d86d17ad0de",
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v16/KidTracker-Kind.apk",
-    "versionCode":  16,
-    "versionName":  "0.2.15",
-    "notes":  "Neu: Bildschirmfoto auf Zuruf. Das Kind sieht danach immer einen Hinweis."
+    "sha256":  "280a1b5e2c042f7960ed21bac680d15bd44e01a660dea499d57266ee03583aee",
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v17/KidTracker-Kind.apk",
+    "versionCode":  17,
+    "versionName":  "0.2.16",
+    "notes":  "Kinder-App aktualisiert sich künftig automatisch."
 }
