@@ -3,5 +3,5 @@
     "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v17/KidTracker-Kind.apk",
     "versionCode":  17,
     "versionName":  "0.2.16",
-    "notes":  "Neue Standort-Seite: Zeitleiste mit Orten und Wegen, größere Karte."
+    "notes":  "Zeitleiste ohne erfundene Wege, wenn das Handy zu Hause liegt."
 }
