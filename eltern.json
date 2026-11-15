@@ -1,7 +1,7 @@
 {
-    "sha256":  "2b0f397cffd432b2b84505b3014e04e73e1e685d4beaa325cc7691f2107551c9",
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v26/KidTracker-Eltern.apk",
-    "versionCode":  26,
-    "versionName":  "0.2.26",
-    "notes":  "Karte ohne Geistersprünge rund ums Haus, neue Aktivitätsansicht mit Top-Apps und Verlauf."
+    "sha256":  "2aef67d0b40683f76e787b93b3a5a9679afb751b9c8baaed18a07fe6dc1046c3",
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v27/KidTracker-Eltern.apk",
+    "versionCode":  27,
+    "versionName":  "0.2.27",
+    "notes":  "Neu: Bildschirmfoto auf Zuruf. Das Kind sieht danach immer einen Hinweis."
 }
