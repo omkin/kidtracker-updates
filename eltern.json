@@ -1,7 +1,7 @@
 {
-    "sha256":  "cbfec699cce1f3fbff17bf03ed29189812a0e1330939e4c763c8a9be3407e1f8",
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v30/KidTracker-Eltern.apk",
-    "versionCode":  30,
-    "versionName":  "0.2.30",
-    "notes":  "Jeder Weg in eigener Farbe mit Pfeilen, klarere Kopfzeile."
+    "sha256":  "26788fcce1c5105fd8976e01ecdf72ea7938d412a2eba2bd34aeb06577379427",
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v31/KidTracker-Eltern.apk",
+    "versionCode":  31,
+    "versionName":  "0.2.31",
+    "notes":  "Ruhigere Weglinien ohne Zacken, alte Tageslinie entfernt."
 }
