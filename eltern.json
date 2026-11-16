@@ -1,7 +1,7 @@
 {
-    "sha256":  "26788fcce1c5105fd8976e01ecdf72ea7938d412a2eba2bd34aeb06577379427",
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v31/KidTracker-Eltern.apk",
-    "versionCode":  31,
-    "versionName":  "0.2.31",
-    "notes":  "Ruhigere Weglinien ohne Zacken, alte Tageslinie entfernt."
+    "sha256":  "aa6a77002e43b9b2f909b03eb7240c6666428fd4866bd1e60e6eeca2682e3899",
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v32/KidTracker-Eltern.apk",
+    "versionCode":  32,
+    "versionName":  "0.2.32",
+    "notes":  "Display an/aus sehen, Mitteilung wenn das Display angeht, Bildschirmfoto groß ansehen und löschen."
 }
