@@ -3,5 +3,5 @@
     "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v17/KidTracker-Kind.apk",
     "versionCode":  17,
     "versionName":  "0.2.16",
-    "notes":  "Jeder Weg in eigener Farbe mit Pfeilen, klarere Kopfzeile."
+    "notes":  "Ruhigere Weglinien ohne Zacken, alte Tageslinie entfernt."
 }
