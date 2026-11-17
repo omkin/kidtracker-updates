@@ -3,5 +3,5 @@
     "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v18/KidTracker-Kind.apk",
     "versionCode":  18,
     "versionName":  "0.2.17",
-    "notes":  "Display an/aus sehen, Mitteilung wenn das Display angeht, Bildschirmfoto groß ansehen und löschen."
+    "notes":  "Durch alle Bildschirmfotos blättern, Kopfzeile ohne falsche Straße."
 }
