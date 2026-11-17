@@ -1,7 +1,7 @@
 {
-    "sha256":  "aa6a77002e43b9b2f909b03eb7240c6666428fd4866bd1e60e6eeca2682e3899",
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v32/KidTracker-Eltern.apk",
-    "versionCode":  32,
-    "versionName":  "0.2.32",
-    "notes":  "Display an/aus sehen, Mitteilung wenn das Display angeht, Bildschirmfoto groß ansehen und löschen."
+    "sha256":  "908387703062be236c95d6a218466da07d9bd57a51945b5b3ceb2f960fdfb3e4",
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v33/KidTracker-Eltern.apk",
+    "versionCode":  33,
+    "versionName":  "0.2.33",
+    "notes":  "Durch alle Bildschirmfotos blättern, Kopfzeile ohne falsche Straße."
 }
