@@ -1,7 +1,7 @@
 {
-    "sha256":  "908387703062be236c95d6a218466da07d9bd57a51945b5b3ceb2f960fdfb3e4",
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v33/KidTracker-Eltern.apk",
-    "versionCode":  33,
-    "versionName":  "0.2.33",
-    "notes":  "Durch alle Bildschirmfotos blättern, Kopfzeile ohne falsche Straße."
+    "sha256":  "dfc6d00647793c64bb245c3157bc333b0d159139d64faa763ff229570af3bf7d",
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v34/KidTracker-Eltern.apk",
+    "versionCode":  34,
+    "versionName":  "0.2.34",
+    "notes":  "Akku je App (geschätzt)."
 }
