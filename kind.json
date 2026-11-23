@@ -3,5 +3,5 @@
     "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v19/KidTracker-Kind.apk",
     "versionCode":  19,
     "versionName":  "0.2.18",
-    "notes":  "Akku je App (geschätzt)."
+    "notes":  "Regeln-Bereich neu gestaltet, Akku je App mit Erklärung ohne Messwerte."
 }
