@@ -1,7 +1,7 @@
 {
-    "sha256":  "9507ab21006b49a9750695af9510b6197216518e48e032fb15cce2e3905e666c",
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v18/KidTracker-Kind.apk",
-    "versionCode":  18,
-    "versionName":  "0.2.17",
-    "notes":  "Durch alle Bildschirmfotos blättern, Kopfzeile ohne falsche Straße."
+    "sha256":  "f874666265c363dcf60236fa5f76b67733a25648b81960556700acb6e994d9bd",
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v19/KidTracker-Kind.apk",
+    "versionCode":  19,
+    "versionName":  "0.2.18",
+    "notes":  "Akku je App (geschätzt)."
 }
