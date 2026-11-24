@@ -1,7 +1,7 @@
 {
-    "sha256":  "f874666265c363dcf60236fa5f76b67733a25648b81960556700acb6e994d9bd",
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v19/KidTracker-Kind.apk",
-    "versionCode":  19,
-    "versionName":  "0.2.18",
-    "notes":  "Regeln-Bereich neu gestaltet, Akku je App mit Erklärung ohne Messwerte."
+    "sha256":  "02eaf385c1dc303bf62a43a10b3477ffbcdffa4f62ea74d9d33c64e85df195a4",
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v20/KidTracker-Kind.apk",
+    "versionCode":  20,
+    "versionName":  "0.2.19",
+    "notes":  "Internetfilter: Jugendschutz-DNS, SafeSearch, eigene Sperrliste; nur Chrome als Browser."
 }
