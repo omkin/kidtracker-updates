@@ -3,5 +3,5 @@
     "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-eltern-v36/KidTracker-Eltern.apk",
     "versionCode":  36,
     "versionName":  "0.2.36",
-    "notes":  "Internetfilter: Jugendschutz-DNS, SafeSearch, eigene Sperrliste; nur Chrome als Browser."
+    "notes":  "Verbindung zum Server klappt wieder, auch mit Jugendschutz-DNS."
 }
