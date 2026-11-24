@@ -1,7 +1,7 @@
 {
-    "sha256":  "02eaf385c1dc303bf62a43a10b3477ffbcdffa4f62ea74d9d33c64e85df195a4",
-    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v20/KidTracker-Kind.apk",
-    "versionCode":  20,
-    "versionName":  "0.2.19",
-    "notes":  "Internetfilter: Jugendschutz-DNS, SafeSearch, eigene Sperrliste; nur Chrome als Browser."
+    "sha256":  "25183c86657435311be4a937f059957de125e9e883857e1e3c0b1182cfe6de4c",
+    "apk":  "https://github.com/omkin/App-Releases/releases/download/kidtracker-kind-v21/KidTracker-Kind.apk",
+    "versionCode":  21,
+    "versionName":  "0.2.20",
+    "notes":  "Verbindung zum Server klappt wieder, auch mit Jugendschutz-DNS."
 }
